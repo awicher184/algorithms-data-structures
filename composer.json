@@ -1,0 +1,19 @@
+{
+    "name": "awicher/algorithms-data-structures",
+    "description": "Algorithms and data structures implemented in PHP",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^11.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Awicher\\AlgorithmsDataStructures\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "A. Wicher",
+            "email": "awicher@proton.me"
+        }
+    ]
+}
